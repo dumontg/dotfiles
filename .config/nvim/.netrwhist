@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/rippalka/.config/nvim/lua/rippalka'
+let g:netrw_dirhist_8='/home/rippalka/.config/nvim/lua'
+let g:netrw_dirhist_7='/home/rippalka/.config/nvim'
+let g:netrw_dirhist_6='/home/rippalka/.config/nvim/lua/rippalka'
+let g:netrw_dirhist_5='/home/rippalka/.config/nvim/lua'
+let g:netrw_dirhist_4='/home/rippalka/.config/nvim'
+let g:netrw_dirhist_3='/home/rippalka/.config'
+let g:netrw_dirhist_2='/home/rippalka'
+let g:netrw_dirhist_1='/home/rippalka/.config/nvim'
